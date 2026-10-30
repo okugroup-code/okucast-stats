@@ -1,7 +1,7 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Oct 29, 2026 9:06 PM ET",
+ "exported_at": "Oct 29, 2026 11:33 PM ET",
  "posts": [
   {
    "id": "2026-10-30-google-genie-4-world-model",
@@ -34,13 +34,14 @@
     }
    ],
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-10-30-google-genie-4-world-model.jpg",
-   "post_time": "9:00 AM ET"
+   "post_time": "9:00 AM ET",
+   "scheduled": "Fri Oct 30 \u00b7 9:00 AM ET"
   },
   {
    "id": "2026-10-31-anthropic-files-ipo",
    "date": "2026-10-31",
-   "folder": "inbox",
-   "status": "Approved \u00b7 video rendering",
+   "folder": "approved",
+   "status": "Ready to post",
    "headline": "Anthropic, the maker of Claude, files to go public",
    "hook": "Claude's maker just filed to go public!",
    "caption": "Anthropic, the AI company behind Claude, has filed for an IPO and plans to list on the stock market under the ticker ANT. Its filing shows $16.3 billion in revenue for the first half of 2026, up from $1.2 billion a year earlier, while its seven co-founders will keep control of 50.1% of the voting power.\n\nSource: TechCrunch, https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
@@ -55,7 +56,7 @@
    "ai_label": true,
    "approved_by": "Ernest via Nova",
    "look": "8_burgundy_blouse_office",
-   "duration_s": null,
+   "duration_s": 33.0,
    "sources": [
     {
      "outlet": "TechCrunch",
@@ -67,7 +68,71 @@
     }
    ],
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-10-31-anthropic-files-ipo.jpg",
-   "post_time": "9:00 AM ET"
+   "post_time": "9:00 AM ET",
+   "scheduled": "Sat Oct 31 \u00b7 9:00 AM ET"
+  },
+  {
+   "id": "2026-11-01-singapore-ai-incident-pilot",
+   "date": "2026-11-01",
+   "folder": "inbox",
+   "status": "Awaiting approval",
+   "headline": "Singapore pitches a global AI incident reporting pilot",
+   "hook": "Singapore wants AI incidents shared like airline near misses!",
+   "caption": "Singapore's Prime Minister Lawrence Wong has proposed an AI incident reporting pilot, where countries would agree on common incident categories and share information securely to make AI safer. He pointed to aviation, where incidents and near misses are reported and studied so safety keeps improving. He made the pitch at an October 28 online meeting on frontier AI safety with leaders from 31 countries.\n\nSource: The Straits Times, https://www.straitstimes.com/tech/singapore-proposes-ai-incident-reporting-pilot-to-boost-ai-safety",
+   "hashtags": [
+    "#AISafety",
+    "#AInews",
+    "#AIpolicy",
+    "#FrontierAI",
+    "#Singapore"
+   ],
+   "type": "reel",
+   "ai_label": true,
+   "approved_by": null,
+   "look": "12_messy_bun_lavender_sweater",
+   "duration_s": null,
+   "sources": [
+    {
+     "outlet": "The Straits Times",
+     "url": "https://www.straitstimes.com/tech/singapore-proposes-ai-incident-reporting-pilot-to-boost-ai-safety"
+    },
+    {
+     "outlet": "Government of Norway (primary, joint statement)",
+     "url": "https://www.regjeringen.no/en/whats-new/joint-statement-how-to-follow-up-the-call-for-control-over-development-of-frontier-ai-models/id3186489/"
+    }
+   ],
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-01-singapore-ai-incident-pilot.jpg",
+   "post_time": "9:00 AM ET",
+   "scheduled": "Sun Nov 1 \u00b7 9:00 AM ET"
+  },
+  {
+   "id": "2026-11-01-tesla-optimus-mira",
+   "date": "2026-11-01",
+   "folder": "drafts",
+   "status": "Draft \u00b7 not approved yet",
+   "headline": "Tesla starts early production of Optimus humanoid robots",
+   "hook": "Tesla has started building its Optimus humanoid robots!",
+   "caption": "Tesla has started building Optimus humanoid robots \ud83e\udd16\n\nOn Tesla's earnings call last week, Elon Musk said early production has begun on the company's high-volume line in Fremont, California. He also said the hands, safety, reliability, durability and AI still need work. Musk expects Tesla could start delivering Optimus to outside companies around the end of 2027.\n\nFollow @okugroup for daily AI & robotics news.\n\nSource: The Verge, https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings",
+   "hashtags": [
+    "#TeslaOptimus",
+    "#HumanoidRobots",
+    "#ElonMusk",
+    "#RoboticsNews"
+   ],
+   "type": "reel",
+   "ai_label": true,
+   "approved_by": null,
+   "look": "9_high_ponytail_gray_hoodie",
+   "duration_s": null,
+   "sources": [
+    {
+     "outlet": "The Verge",
+     "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings"
+    }
+   ],
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-01-tesla-optimus-mira.jpg",
+   "post_time": "9:00 AM ET",
+   "scheduled": "Sun Nov 1 \u00b7 9:00 AM ET"
   }
  ],
  "live": true
