@@ -1,0 +1,74 @@
+{
+ "account": "@okugroup",
+ "read_only": true,
+ "exported_at": "Oct 29, 2026 8:50 PM ET",
+ "posts": [
+  {
+   "id": "2026-10-30-google-genie-4-world-model",
+   "date": "2026-10-30",
+   "folder": "approved",
+   "status": "Ready to post",
+   "headline": "Google's Genie 4 builds worlds you can steer live",
+   "hook": "Google just built AI worlds you can steer live!",
+   "caption": "Google's new Genie 4 world model builds AI worlds you can steer and change in real time. The Google DeepMind model adds matching audio, from music to dialogue, and keeps a scene consistent for up to two minutes, double Genie 3. It's in research preview for trusted testers now, with Google AI Ultra subscribers next.\n\nSource: TechCrunch, https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "hashtags": [
+    "#AInews",
+    "#WorldModels",
+    "#GoogleDeepMind",
+    "#GenerativeAI",
+    "#Genie4"
+   ],
+   "type": "reel",
+   "ai_label": true,
+   "approved_by": "Ernest via Nova",
+   "look": "6_curls_navy_blazer",
+   "duration_s": 30.8,
+   "sources": [
+    {
+     "outlet": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+     "outlet": "Google DeepMind (primary)",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    }
+   ],
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-10-30-google-genie-4-world-model.jpg",
+   "post_time": "9:00 AM ET"
+  },
+  {
+   "id": "2026-10-31-anthropic-files-ipo",
+   "date": "2026-10-31",
+   "folder": "inbox",
+   "status": "Approved \u00b7 video rendering",
+   "headline": "Anthropic, the maker of Claude, files to go public",
+   "hook": "Claude's maker just filed to go public!",
+   "caption": "Anthropic, the AI company behind Claude, has filed for an IPO and plans to list on the stock market under the ticker ANT. Its filing shows $16.3 billion in revenue for the first half of 2026, up from $1.2 billion a year earlier, while its seven co-founders will keep control of 50.1% of the voting power.\n\nSource: TechCrunch, https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "hashtags": [
+    "#AInews",
+    "#Anthropic",
+    "#ClaudeAI",
+    "#IPO",
+    "#TechNews"
+   ],
+   "type": "reel",
+   "ai_label": true,
+   "approved_by": "Ernest via Nova",
+   "look": "8_burgundy_blouse_office",
+   "duration_s": null,
+   "sources": [
+    {
+     "outlet": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+    },
+    {
+     "outlet": "Anthropic (primary)",
+     "url": "https://www.anthropic.com/news/s1-sec"
+    }
+   ],
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-10-31-anthropic-files-ipo.jpg",
+   "post_time": "9:00 AM ET"
+  }
+ ],
+ "live": true
+}
