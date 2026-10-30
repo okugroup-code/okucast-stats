@@ -1,0 +1,17 @@
+{
+ "account": "@oku3dprints",
+ "read_only": true,
+ "exported_at": "Oct 30, 2026 7:06 PM ET",
+ "snapshot_at": "2026-10-30T23:06:09+00:00",
+ "followers": 4,
+ "following": 3,
+ "media_count": 0,
+ "followers_history": [
+  {
+   "date": "2026-10-30",
+   "followers": 4
+  }
+ ],
+ "posts": [],
+ "live": true
+}

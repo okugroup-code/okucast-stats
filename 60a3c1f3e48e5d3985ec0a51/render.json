@@ -1,17 +1,8 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Oct 30, 2026 1:13 AM ET",
+ "exported_at": "Oct 30, 2026 7:06 PM ET",
  "reels": [
-  {
-   "id": "2026-10-30-google-genie-4-world-model",
-   "date": "2026-10-30",
-   "headline": "Google's Genie 4 builds worlds you can steer live",
-   "approved": true,
-   "state": "queued",
-   "label": "Queued \u00b7 Fri Oct 30, 9 AM",
-   "look": "6_curls_navy_blazer"
-  },
   {
    "id": "2026-10-31-anthropic-files-ipo",
    "date": "2026-10-31",
@@ -22,22 +13,22 @@
    "look": "8_burgundy_blouse_office"
   },
   {
-   "id": "2026-11-01-singapore-ai-incident-pilot",
-   "date": "2026-11-01",
-   "headline": "Singapore pitches a global AI incident reporting pilot",
-   "approved": false,
-   "state": "waiting",
-   "label": "Waiting for the laptop",
-   "look": "12_messy_bun_lavender_sweater"
-  },
-  {
    "id": "2026-11-01-tesla-optimus-mira",
    "date": "2026-11-01",
    "headline": "Tesla starts early production of Optimus humanoid robots",
-   "approved": false,
-   "state": "rendering",
-   "label": "Rendering \u00b7 segment 7/11",
+   "approved": true,
+   "state": "queued",
+   "label": "Queued \u00b7 Sun Nov 1, 9 AM",
    "look": "9_high_ponytail_gray_hoodie"
+  },
+  {
+   "id": "2026-11-02-singapore-ai-incident-pilot",
+   "date": "2026-11-02",
+   "headline": "Singapore pitches a global AI incident reporting pilot",
+   "approved": true,
+   "state": "queued",
+   "label": "Queued \u00b7 Mon Nov 2, 9 AM",
+   "look": "12_messy_bun_lavender_sweater"
   }
  ],
  "live": true
