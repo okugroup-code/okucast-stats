@@ -1,0 +1,137 @@
+{
+ "account": "@okugroup",
+ "read_only": true,
+ "taken_at": "Oct 29, 2026 5:04 PM ET",
+ "followers": 20,
+ "followers_change": 0,
+ "prev_taken_at": "Oct 28",
+ "following": 111,
+ "media_count": 15,
+ "last_24h": {
+  "views": 5,
+  "reach": 4,
+  "profile_views": 1,
+  "accounts_engaged": 2
+ },
+ "history": [
+  {
+   "date": "2026-10-27",
+   "followers": 19
+  },
+  {
+   "date": "2026-10-28",
+   "followers": 20
+  },
+  {
+   "date": "2026-10-29",
+   "followers": 20
+  }
+ ],
+ "posts": [
+  {
+   "date": "Thu Oct 29",
+   "title": "Japan's KDDI just launched a robot brain company!",
+   "type": "Reel",
+   "views": 4,
+   "reach": 2,
+   "likes": 2,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 30,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18042459005834841.jpg"
+  },
+  {
+   "date": "Wed Oct 28",
+   "title": "Google just opened its robot brain to businesses",
+   "type": "Reel",
+   "views": 9,
+   "reach": 5,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 34,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17898961938405182.jpg"
+  },
+  {
+   "date": "Tue Oct 27",
+   "title": "Bedrock Robotics has raised 600 million dollars in a\u2026",
+   "type": "Reel",
+   "views": 6,
+   "reach": 3,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 18,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18397099621167294.jpg"
+  },
+  {
+   "date": "Mon Oct 26",
+   "title": "110 AgiBot Humanoids Dance Together in Guinness Record\u2026",
+   "type": "Reel",
+   "views": 7,
+   "reach": 4,
+   "likes": 2,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 25,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18136462156641795.jpg"
+  },
+  {
+   "date": "Mon Oct 26",
+   "title": "Moonshot AI has launched Kimi K3.1 Pro, an upgraded\u2026",
+   "type": "Post",
+   "views": 4,
+   "reach": 3,
+   "likes": 0,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": null,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17909318763592049.jpg"
+  },
+  {
+   "date": "Sat Oct 24",
+   "title": "Tesla has started building Optimus humanoid robots \ud83e\udd16",
+   "type": "Reel",
+   "views": 87,
+   "reach": 77,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 3,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17908080156658557.jpg"
+  },
+  {
+   "date": "Fri Oct 23",
+   "title": "Agility Robotics' Digit 5 humanoid will use Nyobolt\u2026",
+   "type": "Post",
+   "views": 8,
+   "reach": 4,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": null,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18015175622973066.jpg"
+  },
+  {
+   "date": "Wed Oct 21",
+   "title": "California Gov. Gavin Newsom signed an executive order\u2026",
+   "type": "Post",
+   "views": 8,
+   "reach": 3,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": null,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18084148220705321.jpg"
+  }
+ ],
+ "live": true
+}
