@@ -2,14 +2,14 @@
  "account": "@oku3dprints",
  "read_only": true,
  "view_only": true,
- "exported_at": "Oct 30, 2026 7:06 PM ET",
+ "exported_at": "Oct 30, 2026 9:05 PM ET",
  "posts": [
   {
    "id": "2026-10-24-foam-plate-holder",
-   "date": null,
+   "date": "2026-10-24",
    "folder": "inbox",
    "type": "image",
-   "headline": "2026-10-24-foam-plate-holder",
+   "headline": "Foam plate holder",
    "status": "Awaiting approval",
    "caption": "Caption hidden until posted",
    "hook": "Hidden until posted",
@@ -17,14 +17,18 @@
    "sources": [],
    "thumb": null,
    "post_time": "\u2014",
-   "scheduled": null
+   "scheduled": null,
+   "approved_by": null,
+   "look": null,
+   "duration_s": null,
+   "ai_label": false
   },
   {
    "id": "2026-10-24-travel-snack-bowl",
-   "date": null,
+   "date": "2026-10-24",
    "folder": "inbox",
    "type": "image",
-   "headline": "2026-10-24-travel-snack-bowl",
+   "headline": "Travel snack bowl",
    "status": "Awaiting approval",
    "caption": "Caption hidden until posted",
    "hook": "Hidden until posted",
@@ -32,7 +36,11 @@
    "sources": [],
    "thumb": null,
    "post_time": "\u2014",
-   "scheduled": null
+   "scheduled": null,
+   "approved_by": null,
+   "look": null,
+   "duration_s": null,
+   "ai_label": false
   }
  ],
  "live": true
