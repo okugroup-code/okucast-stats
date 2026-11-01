@@ -1,18 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Oct 30, 2026 9:05 PM ET",
+ "exported_at": "Oct 31, 2026 10:18 PM ET",
  "posts": [
+  {
+   "posted": "Sat Oct 31 \u00b7 9:08 AM ET",
+   "title": "Anthropic, the maker of Claude, files to go public",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DfKOkA1HRVi/",
+   "views": 7,
+   "reach": 3,
+   "likes": 1,
+   "stats_as_of": "2026-10-31",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18137242237643629.jpg"
+  },
   {
    "posted": "Fri Oct 30 \u00b7 9:11 AM ET",
    "title": "Google's Genie 4 builds worlds you can steer live",
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DfHqHPOju_J/",
-   "views": 5,
-   "reach": 3,
+   "views": 6,
+   "reach": 5,
    "likes": 2,
-   "stats_as_of": "2026-10-30",
+   "stats_as_of": "2026-10-31",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18231095626330686.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 6,
    "reach": 3,
    "likes": 2,
-   "stats_as_of": "2026-10-30",
+   "stats_as_of": "2026-10-31",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18042459005834841.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 9,
    "reach": 5,
    "likes": 1,
-   "stats_as_of": "2026-10-30",
+   "stats_as_of": "2026-10-31",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17898961938405182.jpg"
   },
   {
@@ -46,9 +58,9 @@
    "mira": true,
    "permalink": "https://www.instagram.com/reel/De_9WiWnQyg/",
    "views": 6,
-   "reach": 3,
+   "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-10-30",
+   "stats_as_of": "2026-10-31",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18397099621167294.jpg"
   },
   {
@@ -57,10 +69,10 @@
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/De-2KpsoF43/",
-   "views": 7,
-   "reach": 4,
+   "views": 8,
+   "reach": 5,
    "likes": 2,
-   "stats_as_of": "2026-10-30",
+   "stats_as_of": "2026-10-31",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18136462156641795.jpg"
   },
   {
@@ -69,10 +81,10 @@
    "type": "Post",
    "mira": false,
    "permalink": "https://www.instagram.com/p/De9UfwPkVQe/",
-   "views": 5,
-   "reach": 4,
+   "views": 7,
+   "reach": 5,
    "likes": 0,
-   "stats_as_of": "2026-10-30",
+   "stats_as_of": "2026-10-31",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17909318763592049.jpg"
   },
   {
@@ -81,10 +93,10 @@
    "type": "Reel",
    "mira": false,
    "permalink": "https://www.instagram.com/reel/De5gzqrkVLJ/",
-   "views": 87,
-   "reach": 77,
+   "views": 88,
+   "reach": 78,
    "likes": 1,
-   "stats_as_of": "2026-10-30",
+   "stats_as_of": "2026-10-31",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17908080156658557.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 4,
    "likes": 1,
    "stats_as_of": "2026-10-30",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18015175622973066.jpg"
+   "thumb": null
   },
   {
    "posted": "Wed Oct 21 \u00b7 9:08 AM ET",

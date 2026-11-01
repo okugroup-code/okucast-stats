@@ -1,17 +1,17 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Oct 30, 2026 9:05 PM ET",
+ "taken_at": "Oct 31, 2026 10:18 PM ET",
  "followers": 20,
  "followers_change": 0,
- "prev_taken_at": "Oct 29",
+ "prev_taken_at": "Oct 30",
  "following": 111,
- "media_count": 16,
+ "media_count": 17,
  "last_24h": {
-  "views": 5,
-  "reach": 3,
-  "profile_views": 0,
-  "accounts_engaged": 2
+  "views": 14,
+  "reach": 4,
+  "profile_views": 1,
+  "accounts_engaged": 1
  },
  "history": [
   {
@@ -29,20 +29,37 @@
   {
    "date": "2026-10-30",
    "followers": 20
+  },
+  {
+   "date": "2026-10-31",
+   "followers": 20
   }
  ],
  "posts": [
   {
+   "date": "Sat Oct 31",
+   "title": "Anthropic, the maker of Claude, files to go public",
+   "type": "Reel",
+   "views": 7,
+   "reach": 3,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 53,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18137242237643629.jpg"
+  },
+  {
    "date": "Fri Oct 30",
    "title": "Google's Genie 4 builds worlds you can steer live",
    "type": "Reel",
-   "views": 5,
-   "reach": 3,
+   "views": 6,
+   "reach": 5,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 14,
+   "avg_watch_s": 15,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18231095626330686.jpg"
   },
   {
@@ -55,7 +72,7 @@
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 19,
+   "avg_watch_s": 23,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18042459005834841.jpg"
   },
   {
@@ -76,7 +93,7 @@
    "title": "Bedrock Robotics has raised 600 million dollars in a\u2026",
    "type": "Reel",
    "views": 6,
-   "reach": 3,
+   "reach": 4,
    "likes": 1,
    "comments": 0,
    "saves": 0,
@@ -88,21 +105,21 @@
    "date": "Mon Oct 26",
    "title": "110 AgiBot Humanoids Dance Together in Guinness Record\u2026",
    "type": "Reel",
-   "views": 7,
-   "reach": 4,
+   "views": 8,
+   "reach": 5,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 25,
+   "avg_watch_s": 21,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18136462156641795.jpg"
   },
   {
    "date": "Mon Oct 26",
    "title": "Moonshot AI has launched Kimi K3.1 Pro, an upgraded\u2026",
    "type": "Post",
-   "views": 5,
-   "reach": 4,
+   "views": 7,
+   "reach": 5,
    "likes": 0,
    "comments": 0,
    "saves": 0,
@@ -114,27 +131,14 @@
    "date": "Sat Oct 24",
    "title": "Tesla has started building Optimus humanoid robots \ud83e\udd16",
    "type": "Reel",
-   "views": 87,
-   "reach": 77,
+   "views": 88,
+   "reach": 78,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avg_watch_s": 3,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17908080156658557.jpg"
-  },
-  {
-   "date": "Fri Oct 23",
-   "title": "Agility Robotics' Digit 5 humanoid will use Nyobolt\u2026",
-   "type": "Post",
-   "views": 8,
-   "reach": 4,
-   "likes": 1,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": null,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18015175622973066.jpg"
   }
  ],
  "live": true

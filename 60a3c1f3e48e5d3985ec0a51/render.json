@@ -1,17 +1,8 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Oct 30, 2026 9:05 PM ET",
+ "exported_at": "Oct 31, 2026 10:18 PM ET",
  "reels": [
-  {
-   "id": "2026-10-31-anthropic-files-ipo",
-   "date": "2026-10-31",
-   "headline": "Anthropic, the maker of Claude, files to go public",
-   "approved": true,
-   "state": "queued",
-   "label": "Queued \u00b7 Sat Oct 31, 9 AM",
-   "look": "8_burgundy_blouse_office"
-  },
   {
    "id": "2026-11-01-tesla-optimus-mira",
    "date": "2026-11-01",
@@ -19,7 +10,7 @@
    "approved": true,
    "state": "queued",
    "label": "Queued \u00b7 Sun Nov 1, 9 AM",
-   "look": "9_high_ponytail_gray_hoodie"
+   "look": "8_burgundy_blouse_office"
   },
   {
    "id": "2026-11-02-singapore-ai-incident-pilot",
@@ -29,6 +20,15 @@
    "state": "queued",
    "label": "Queued \u00b7 Mon Nov 2, 9 AM",
    "look": "12_messy_bun_lavender_sweater"
+  },
+  {
+   "id": "2026-11-03-mistral-large-4-open-weights",
+   "date": "2026-11-03",
+   "headline": "Mistral opens up its trillion parameter AI model",
+   "approved": true,
+   "state": "queued",
+   "label": "Queued \u00b7 Tue Nov 3, 9 AM",
+   "look": "13_leather_jacket_rooftop"
   }
  ],
  "live": true

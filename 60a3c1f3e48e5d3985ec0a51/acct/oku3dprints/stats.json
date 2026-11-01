@@ -1,10 +1,10 @@
 {
  "account": "@oku3dprints",
  "read_only": true,
- "taken_at": "Oct 30, 2026 9:05 PM ET",
+ "taken_at": "Oct 31, 2026 10:18 PM ET",
  "followers": 4,
- "followers_change": null,
- "prev_taken_at": null,
+ "followers_change": 0,
+ "prev_taken_at": "Oct 30",
  "following": 3,
  "media_count": 0,
  "last_24h": {
@@ -16,6 +16,10 @@
  "history": [
   {
    "date": "2026-10-30",
+   "followers": 4
+  },
+  {
+   "date": "2026-10-31",
    "followers": 4
   }
  ],
