@@ -1,17 +1,8 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Oct 31, 2026 10:18 PM ET",
+ "exported_at": "Nov 1, 2026 9:06 PM ET",
  "reels": [
-  {
-   "id": "2026-11-01-tesla-optimus-mira",
-   "date": "2026-11-01",
-   "headline": "Tesla starts early production of Optimus humanoid robots",
-   "approved": true,
-   "state": "queued",
-   "label": "Queued \u00b7 Sun Nov 1, 9 AM",
-   "look": "8_burgundy_blouse_office"
-  },
   {
    "id": "2026-11-02-singapore-ai-incident-pilot",
    "date": "2026-11-02",
@@ -29,6 +20,15 @@
    "state": "queued",
    "label": "Queued \u00b7 Tue Nov 3, 9 AM",
    "look": "13_leather_jacket_rooftop"
+  },
+  {
+   "id": "2026-11-04-waymo-toyota-robotaxis-japan",
+   "date": "2026-11-04",
+   "headline": "Toyota will build Waymo's robotaxis for Japan",
+   "approved": true,
+   "state": "queued",
+   "label": "Queued \u00b7 Wed Nov 4, 9 AM",
+   "look": "6_curls_navy_blazer"
   }
  ],
  "live": true
