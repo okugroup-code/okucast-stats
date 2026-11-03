@@ -1,27 +1,9 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 1, 2026 9:06 PM ET",
+ "exported_at": "Nov 2, 2026 9:09 PM ET",
+ "post_now_live": false,
  "posts": [
-  {
-   "id": "2026-11-02-singapore-ai-incident-pilot",
-   "date": "2026-11-02",
-   "folder": "approved",
-   "status": "Ready to post",
-   "headline": "Singapore pitches a global AI incident reporting pilot",
-   "hook": "Hidden until posted",
-   "caption": "Caption hidden until posted",
-   "hashtags": [],
-   "type": "reel",
-   "ai_label": true,
-   "approved_by": "Ernest via Nova",
-   "look": "12_messy_bun_lavender_sweater",
-   "duration_s": 35.2,
-   "sources": [],
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-02-singapore-ai-incident-pilot.jpg",
-   "post_time": "9:00 AM ET",
-   "scheduled": "Mon Nov 2 \u00b7 9:00 AM ET"
-  },
   {
    "id": "2026-11-03-mistral-large-4-open-weights",
    "date": "2026-11-03",
@@ -39,7 +21,9 @@
    "sources": [],
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-03-mistral-large-4-open-weights.jpg",
    "post_time": "9:00 AM ET",
-   "scheduled": "Tue Nov 3 \u00b7 9:00 AM ET"
+   "scheduled": "Tue Nov 3 \u00b7 9:00 AM ET",
+   "scheduled_by_phone": false,
+   "missed": false
   },
   {
    "id": "2026-11-04-waymo-toyota-robotaxis-japan",
@@ -58,7 +42,30 @@
    "sources": [],
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-04-waymo-toyota-robotaxis-japan.jpg",
    "post_time": "9:00 AM ET",
-   "scheduled": "Wed Nov 4 \u00b7 9:00 AM ET"
+   "scheduled": "Wed Nov 4 \u00b7 9:00 AM ET",
+   "scheduled_by_phone": false,
+   "missed": false
+  },
+  {
+   "id": "2026-11-05-apple-intelligence-china-qwen",
+   "date": "2026-11-05",
+   "folder": "approved",
+   "status": "Ready to post",
+   "headline": "Apple Intelligence is finally coming to China",
+   "hook": "Hidden until posted",
+   "caption": "Caption hidden until posted",
+   "hashtags": [],
+   "type": "reel",
+   "ai_label": true,
+   "approved_by": null,
+   "look": "5_low_bun_black_turtleneck",
+   "duration_s": 34.3,
+   "sources": [],
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-05-apple-intelligence-china-qwen.jpg",
+   "post_time": "9:00 AM ET",
+   "scheduled": "Thu Nov 5 \u00b7 9:00 AM ET",
+   "scheduled_by_phone": false,
+   "missed": false
   }
  ],
  "live": true

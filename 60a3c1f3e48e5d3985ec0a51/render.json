@@ -1,17 +1,8 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Nov 1, 2026 9:06 PM ET",
+ "exported_at": "Nov 2, 2026 9:09 PM ET",
  "reels": [
-  {
-   "id": "2026-11-02-singapore-ai-incident-pilot",
-   "date": "2026-11-02",
-   "headline": "Singapore pitches a global AI incident reporting pilot",
-   "approved": true,
-   "state": "queued",
-   "label": "Queued \u00b7 Mon Nov 2, 9 AM",
-   "look": "12_messy_bun_lavender_sweater"
-  },
   {
    "id": "2026-11-03-mistral-large-4-open-weights",
    "date": "2026-11-03",
@@ -29,6 +20,15 @@
    "state": "queued",
    "label": "Queued \u00b7 Wed Nov 4, 9 AM",
    "look": "6_curls_navy_blazer"
+  },
+  {
+   "id": "2026-11-05-apple-intelligence-china-qwen",
+   "date": "2026-11-05",
+   "headline": "Apple Intelligence is finally coming to China",
+   "approved": true,
+   "state": "queued",
+   "label": "Queued \u00b7 Thu Nov 5, 9 AM",
+   "look": "5_low_bun_black_turtleneck"
   }
  ],
  "live": true

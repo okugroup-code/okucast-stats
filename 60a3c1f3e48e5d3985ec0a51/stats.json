@@ -1,17 +1,17 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 1, 2026 9:06 PM ET",
+ "taken_at": "Nov 2, 2026 9:09 PM ET",
  "followers": 21,
- "followers_change": 1,
- "prev_taken_at": "Oct 31",
+ "followers_change": 0,
+ "prev_taken_at": "Nov 1",
  "following": 111,
- "media_count": 19,
+ "media_count": 20,
  "last_24h": {
-  "views": 40,
-  "reach": 33,
-  "profile_views": 2,
-  "accounts_engaged": 1
+  "views": 12,
+  "reach": 9,
+  "profile_views": 1,
+  "accounts_engaged": 2
  },
  "history": [
   {
@@ -37,33 +37,50 @@
   {
    "date": "2026-11-01",
    "followers": 21
+  },
+  {
+   "date": "2026-11-02",
+   "followers": 21
   }
  ],
  "posts": [
   {
+   "date": "Mon Nov 2",
+   "title": "Singapore pitches a global AI incident reporting pilot",
+   "type": "Reel",
+   "views": 3,
+   "reach": 3,
+   "likes": 2,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 14,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18132821227747769.jpg"
+  },
+  {
    "date": "Sun Nov 1",
    "title": "This Week in AI & Robotics (Oct 25-31)",
    "type": "Reel",
-   "views": 23,
-   "reach": 13,
+   "views": 97,
+   "reach": 87,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 6,
+   "avg_watch_s": 9,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18388925617237104.jpg"
   },
   {
    "date": "Sun Nov 1",
    "title": "Tesla starts early production of Optimus humanoid robots",
    "type": "Reel",
-   "views": 23,
-   "reach": 21,
+   "views": 28,
+   "reach": 27,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 6,
+   "avg_watch_s": 5,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18159343807467642.jpg"
   },
   {
@@ -130,19 +147,6 @@
    "shares": 0,
    "avg_watch_s": 15,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18397099621167294.jpg"
-  },
-  {
-   "date": "Mon Oct 26",
-   "title": "110 AgiBot Humanoids Dance Together in Guinness Record\u2026",
-   "type": "Reel",
-   "views": 9,
-   "reach": 6,
-   "likes": 2,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 21,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18136462156641795.jpg"
   }
  ],
  "live": true
