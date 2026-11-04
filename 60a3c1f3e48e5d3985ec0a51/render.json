@@ -1,17 +1,8 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Nov 2, 2026 9:09 PM ET",
+ "exported_at": "Nov 3, 2026 9:09 PM ET",
  "reels": [
-  {
-   "id": "2026-11-03-mistral-large-4-open-weights",
-   "date": "2026-11-03",
-   "headline": "Mistral opens up its trillion parameter AI model",
-   "approved": true,
-   "state": "queued",
-   "label": "Queued \u00b7 Tue Nov 3, 9 AM",
-   "look": "13_leather_jacket_rooftop"
-  },
   {
    "id": "2026-11-04-waymo-toyota-robotaxis-japan",
    "date": "2026-11-04",
@@ -29,6 +20,15 @@
    "state": "queued",
    "label": "Queued \u00b7 Thu Nov 5, 9 AM",
    "look": "5_low_bun_black_turtleneck"
+  },
+  {
+   "id": "2026-11-06-meta-humanoid-robot-max",
+   "date": "2026-11-06",
+   "headline": "Meta built its own humanoid robot",
+   "approved": true,
+   "state": "queued",
+   "label": "Queued \u00b7 Fri Nov 6, 9 AM",
+   "look": "10_bob_emerald_blazer"
   }
  ],
  "live": true

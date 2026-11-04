@@ -1,18 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 2, 2026 9:09 PM ET",
+ "exported_at": "Nov 3, 2026 9:09 PM ET",
  "posts": [
+  {
+   "posted": "Tue Nov 3 \u00b7 9:16 AM ET",
+   "title": "Mistral opens up its trillion parameter AI model",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DfSEzRQjXKi/",
+   "views": 4,
+   "reach": 2,
+   "likes": 1,
+   "stats_as_of": "2026-11-03",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18109353944183116.jpg"
+  },
   {
    "posted": "Mon Nov 2 \u00b7 9:02 AM ET",
    "title": "Singapore pitches a global AI incident reporting pilot",
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DfPeWJVDswT/",
-   "views": 3,
-   "reach": 3,
+   "views": 5,
+   "reach": 4,
    "likes": 2,
-   "stats_as_of": "2026-11-02",
+   "stats_as_of": "2026-11-03",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18132821227747769.jpg"
   },
   {
@@ -21,10 +33,10 @@
    "type": "Reel",
    "mira": false,
    "permalink": "https://www.instagram.com/reel/DfN3tuViQ5_/",
-   "views": 97,
-   "reach": 87,
+   "views": 99,
+   "reach": 89,
    "likes": 1,
-   "stats_as_of": "2026-11-02",
+   "stats_as_of": "2026-11-03",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18388925617237104.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 28,
    "reach": 27,
    "likes": 1,
-   "stats_as_of": "2026-11-02",
+   "stats_as_of": "2026-11-03",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18159343807467642.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 8,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-02",
+   "stats_as_of": "2026-11-03",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18137242237643629.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 6,
    "reach": 5,
    "likes": 2,
-   "stats_as_of": "2026-11-02",
+   "stats_as_of": "2026-11-03",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18231095626330686.jpg"
   },
   {
@@ -69,10 +81,10 @@
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DfFF6m3k7KA/",
-   "views": 6,
+   "views": 8,
    "reach": 3,
    "likes": 2,
-   "stats_as_of": "2026-11-02",
+   "stats_as_of": "2026-11-03",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18042459005834841.jpg"
   },
   {
@@ -84,7 +96,7 @@
    "views": 10,
    "reach": 6,
    "likes": 1,
-   "stats_as_of": "2026-11-02",
+   "stats_as_of": "2026-11-03",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17898961938405182.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 5,
    "likes": 1,
    "stats_as_of": "2026-11-02",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18397099621167294.jpg"
+   "thumb": null
   },
   {
    "posted": "Mon Oct 26 \u00b7 11:03 PM ET",
