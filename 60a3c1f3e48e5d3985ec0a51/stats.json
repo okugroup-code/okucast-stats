@@ -1,16 +1,16 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 3, 2026 9:09 PM ET",
+ "taken_at": "Nov 8, 2026 9:05 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 2",
+ "prev_taken_at": "Nov 3",
  "following": 111,
- "media_count": 21,
+ "media_count": 23,
  "last_24h": {
-  "views": 5,
-  "reach": 2,
-  "profile_views": 1,
+  "views": 9,
+  "reach": 3,
+  "profile_views": 0,
   "accounts_engaged": 0
  },
  "history": [
@@ -45,33 +45,63 @@
   {
    "date": "2026-11-03",
    "followers": 21
+  },
+  {
+   "date": "2026-11-08",
+   "followers": 21
   }
  ],
  "posts": [
   {
+   "date": "Sun Nov 8",
+   "title": "This Week in AI & Robotics (Nov 1-7)",
+   "type": "Reel",
+   "views": 3,
+   "reach": 2,
+   "likes": 0,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 6,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18096191678180901.jpg"
+  },
+  {
+   "date": "Wed Nov 4",
+   "title": "Toyota will build Waymo's robotaxis for Japan",
+   "type": "Reel",
+   "views": 7,
+   "reach": 4,
+   "likes": 1,
+   "comments": 1,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 7,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18079118492429957.jpg"
+  },
+  {
    "date": "Tue Nov 3",
    "title": "Mistral opens up its trillion parameter AI model",
    "type": "Reel",
-   "views": 4,
-   "reach": 2,
+   "views": 6,
+   "reach": 4,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 15,
+   "avg_watch_s": 12,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18109353944183116.jpg"
   },
   {
    "date": "Mon Nov 2",
    "title": "Singapore pitches a global AI incident reporting pilot",
    "type": "Reel",
-   "views": 5,
+   "views": 6,
    "reach": 4,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 15,
+   "avg_watch_s": 13,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18132821227747769.jpg"
   },
   {
@@ -91,7 +121,7 @@
    "date": "Sun Nov 1",
    "title": "Tesla starts early production of Optimus humanoid robots",
    "type": "Reel",
-   "views": 28,
+   "views": 30,
    "reach": 27,
    "likes": 1,
    "comments": 0,
@@ -104,53 +134,27 @@
    "date": "Sat Oct 31",
    "title": "Anthropic, the maker of Claude, files to go public",
    "type": "Reel",
-   "views": 8,
-   "reach": 4,
+   "views": 9,
+   "reach": 5,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 40,
+   "avg_watch_s": 28,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18137242237643629.jpg"
   },
   {
    "date": "Fri Oct 30",
    "title": "Google's Genie 4 builds worlds you can steer live",
    "type": "Reel",
-   "views": 6,
+   "views": 7,
    "reach": 5,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 15,
+   "avg_watch_s": 13,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18231095626330686.jpg"
-  },
-  {
-   "date": "Thu Oct 29",
-   "title": "Japan's KDDI just launched a robot brain company!",
-   "type": "Reel",
-   "views": 8,
-   "reach": 3,
-   "likes": 2,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 23,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18042459005834841.jpg"
-  },
-  {
-   "date": "Wed Oct 28",
-   "title": "Google just opened its robot brain to businesses",
-   "type": "Reel",
-   "views": 10,
-   "reach": 6,
-   "likes": 1,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 29,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17898961938405182.jpg"
   }
  ],
  "live": true
