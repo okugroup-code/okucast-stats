@@ -1,7 +1,7 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Nov 8, 2026 9:05 PM ET",
+ "exported_at": "Nov 9, 2026 9:10 PM ET",
  "reels": [
   {
    "id": "2026-11-05-apple-intelligence-china-qwen",
@@ -22,13 +22,13 @@
    "look": "10_bob_emerald_blazer"
   },
   {
-   "id": "2026-11-09-chatgpt-search-fifth-of-google",
-   "date": "2026-11-09",
-   "headline": "ChatGPT is catching up to Google in search",
+   "id": "2026-11-10-agibot-robots-run-store-24-hours",
+   "date": "2026-11-10",
+   "headline": "Six robots ran a store for twenty-four hours!",
    "approved": true,
    "state": "queued",
-   "label": "Queued \u00b7 Mon Nov 9, 9 AM",
-   "look": "7_side_braid_mustard_cardigan"
+   "label": "Queued \u00b7 Tue Nov 10, 9 AM",
+   "look": "4_desk_scene"
   }
  ],
  "live": true

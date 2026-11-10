@@ -1,18 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 8, 2026 9:05 PM ET",
+ "exported_at": "Nov 9, 2026 9:10 PM ET",
  "posts": [
+  {
+   "posted": "Mon Nov 9 \u00b7 9:14 AM ET",
+   "title": "ChatGPT is catching up to Google in search",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DfhhWj4gTHf/",
+   "views": 2,
+   "reach": 2,
+   "likes": 1,
+   "stats_as_of": "2026-11-09",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17889729141621547.jpg"
+  },
   {
    "posted": "Sun Nov 8 \u00b7 6:02 PM ET",
    "title": "This Week in AI & Robotics (Nov 1-7)",
    "type": "Reel",
    "mira": false,
    "permalink": "https://www.instagram.com/reel/Dff43SNASOj/",
-   "views": 3,
-   "reach": 2,
+   "views": 5,
+   "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-08",
+   "stats_as_of": "2026-11-09",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18096191678180901.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 7,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-08",
+   "stats_as_of": "2026-11-09",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18079118492429957.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 6,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-08",
+   "stats_as_of": "2026-11-09",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18109353944183116.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 6,
    "reach": 4,
    "likes": 2,
-   "stats_as_of": "2026-11-08",
+   "stats_as_of": "2026-11-09",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18132821227747769.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 99,
    "reach": 89,
    "likes": 1,
-   "stats_as_of": "2026-11-08",
+   "stats_as_of": "2026-11-09",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18388925617237104.jpg"
   },
   {
@@ -69,10 +81,10 @@
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DfM6GvXGx3p/",
-   "views": 30,
+   "views": 31,
    "reach": 27,
    "likes": 1,
-   "stats_as_of": "2026-11-08",
+   "stats_as_of": "2026-11-09",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18159343807467642.jpg"
   },
   {
@@ -84,7 +96,7 @@
    "views": 9,
    "reach": 5,
    "likes": 1,
-   "stats_as_of": "2026-11-08",
+   "stats_as_of": "2026-11-09",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18137242237643629.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 5,
    "likes": 2,
    "stats_as_of": "2026-11-08",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18231095626330686.jpg"
+   "thumb": null
   },
   {
    "posted": "Thu Oct 29 \u00b7 9:16 AM ET",
