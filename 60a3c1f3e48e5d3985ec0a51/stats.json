@@ -1,17 +1,17 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 9, 2026 9:10 PM ET",
+ "taken_at": "Nov 10, 2026 8:56 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 8",
+ "prev_taken_at": "Nov 9",
  "following": 111,
- "media_count": 24,
+ "media_count": 25,
  "last_24h": {
-  "views": 2,
+  "views": 3,
   "reach": 2,
   "profile_views": 0,
-  "accounts_engaged": 1
+  "accounts_engaged": 0
  },
  "history": [
   {
@@ -53,20 +53,37 @@
   {
    "date": "2026-11-09",
    "followers": 21
+  },
+  {
+   "date": "2026-11-10",
+   "followers": 21
   }
  ],
  "posts": [
   {
+   "date": "Tue Nov 10",
+   "title": "Six robots ran a store for twenty-four hours!",
+   "type": "Reel",
+   "views": 3,
+   "reach": 2,
+   "likes": 0,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 13,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18127620217860258.jpg"
+  },
+  {
    "date": "Mon Nov 9",
    "title": "ChatGPT is catching up to Google in search",
    "type": "Reel",
-   "views": 2,
-   "reach": 2,
+   "views": 3,
+   "reach": 3,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 20,
+   "avg_watch_s": 14,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17889729141621547.jpg"
   },
   {
@@ -146,19 +163,6 @@
    "shares": 0,
    "avg_watch_s": 5,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18159343807467642.jpg"
-  },
-  {
-   "date": "Sat Oct 31",
-   "title": "Anthropic, the maker of Claude, files to go public",
-   "type": "Reel",
-   "views": 9,
-   "reach": 5,
-   "likes": 1,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 28,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18137242237643629.jpg"
   }
  ],
  "live": true

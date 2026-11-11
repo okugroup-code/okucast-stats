@@ -1,7 +1,7 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Nov 9, 2026 9:10 PM ET",
+ "exported_at": "Nov 10, 2026 8:56 PM ET",
  "reels": [
   {
    "id": "2026-11-05-apple-intelligence-china-qwen",
@@ -22,13 +22,13 @@
    "look": "10_bob_emerald_blazer"
   },
   {
-   "id": "2026-11-10-agibot-robots-run-store-24-hours",
-   "date": "2026-11-10",
-   "headline": "Six robots ran a store for twenty-four hours!",
+   "id": "2026-11-11-anthropic-fable-5-2-black-holes",
+   "date": "2026-11-11",
+   "headline": "Anthropic says its new AI solved black hole problems!",
    "approved": true,
    "state": "queued",
-   "label": "Queued \u00b7 Tue Nov 10, 9 AM",
-   "look": "4_desk_scene"
+   "label": "Queued \u00b7 Wed Nov 11, 9 AM",
+   "look": "12_messy_bun_lavender_sweater"
   }
  ],
  "live": true
