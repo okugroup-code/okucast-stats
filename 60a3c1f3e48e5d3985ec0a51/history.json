@@ -1,18 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 10, 2026 8:56 PM ET",
+ "exported_at": "Nov 11, 2026 8:53 PM ET",
  "posts": [
+  {
+   "posted": "Wed Nov 11 \u00b7 9:06 AM ET",
+   "title": "Anthropic says its new AI solved black hole problems!",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DfmqAvqCoOl/",
+   "views": 4,
+   "reach": 2,
+   "likes": 0,
+   "stats_as_of": "2026-11-11",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18343027306279638.jpg"
+  },
   {
    "posted": "Tue Nov 10 \u00b7 9:08 AM ET",
    "title": "Six robots ran a store for twenty-four hours!",
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DfkFXsjGS09/",
-   "views": 3,
-   "reach": 2,
-   "likes": 0,
-   "stats_as_of": "2026-11-10",
+   "views": 4,
+   "reach": 3,
+   "likes": 1,
+   "stats_as_of": "2026-11-11",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18127620217860258.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 3,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-10",
+   "stats_as_of": "2026-11-11",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17889729141621547.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 5,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-10",
+   "stats_as_of": "2026-11-11",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18096191678180901.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 7,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-10",
+   "stats_as_of": "2026-11-11",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18079118492429957.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 6,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-10",
+   "stats_as_of": "2026-11-11",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18109353944183116.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 6,
    "reach": 4,
    "likes": 2,
-   "stats_as_of": "2026-11-10",
+   "stats_as_of": "2026-11-11",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18132821227747769.jpg"
   },
   {
@@ -84,7 +96,7 @@
    "views": 99,
    "reach": 89,
    "likes": 1,
-   "stats_as_of": "2026-11-10",
+   "stats_as_of": "2026-11-11",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18388925617237104.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 27,
    "likes": 1,
    "stats_as_of": "2026-11-10",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18159343807467642.jpg"
+   "thumb": null
   },
   {
    "posted": "Sat Oct 31 \u00b7 9:08 AM ET",

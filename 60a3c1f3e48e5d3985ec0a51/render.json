@@ -1,34 +1,16 @@
 {
  "read_only": true,
  "laptop_checked_at": "Oct 29, 2026 11:32 PM ET",
- "exported_at": "Nov 10, 2026 8:56 PM ET",
+ "exported_at": "Nov 11, 2026 8:53 PM ET",
  "reels": [
   {
-   "id": "2026-11-05-apple-intelligence-china-qwen",
-   "date": "2026-11-05",
-   "headline": "Apple Intelligence is finally coming to China",
+   "id": "2026-11-12-ring-drone-patrols-your-home",
+   "date": "2026-11-12",
+   "headline": "Ring built a drone that patrols your empty house!",
    "approved": true,
    "state": "queued",
-   "label": "Queued \u00b7 Thu Nov 5, 9 AM",
-   "look": "5_low_bun_black_turtleneck"
-  },
-  {
-   "id": "2026-11-06-meta-humanoid-robot-max",
-   "date": "2026-11-06",
-   "headline": "Meta built its own humanoid robot",
-   "approved": true,
-   "state": "queued",
-   "label": "Queued \u00b7 Fri Nov 6, 9 AM",
-   "look": "10_bob_emerald_blazer"
-  },
-  {
-   "id": "2026-11-11-anthropic-fable-5-2-black-holes",
-   "date": "2026-11-11",
-   "headline": "Anthropic says its new AI solved black hole problems!",
-   "approved": true,
-   "state": "queued",
-   "label": "Queued \u00b7 Wed Nov 11, 9 AM",
-   "look": "12_messy_bun_lavender_sweater"
+   "label": "Queued \u00b7 Thu Nov 12, 9 AM",
+   "look": "6_curls_navy_blazer"
   }
  ],
  "live": true
