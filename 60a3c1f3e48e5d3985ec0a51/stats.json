@@ -1,15 +1,15 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 11, 2026 8:53 PM ET",
+ "taken_at": "Nov 12, 2026 8:56 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 10",
+ "prev_taken_at": "Nov 11",
  "following": 111,
- "media_count": 26,
+ "media_count": 27,
  "last_24h": {
-  "views": 5,
-  "reach": 2,
+  "views": 8,
+  "reach": 3,
   "profile_views": 0,
   "accounts_engaged": 1
  },
@@ -61,20 +61,50 @@
   {
    "date": "2026-11-11",
    "followers": 21
+  },
+  {
+   "date": "2026-11-12",
+   "followers": 21
   }
  ],
  "posts": [
   {
+   "date": "Thu Nov 12",
+   "title": "Ring built a drone that patrols your empty house!",
+   "type": "Reel",
+   "views": 3,
+   "reach": 3,
+   "likes": 0,
+   "comments": 0,
+   "saves": 1,
+   "shares": 0,
+   "avg_watch_s": 19,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18030494141921589.jpg"
+  },
+  {
+   "date": "Thu Nov 12",
+   "title": "Ring built a drone that patrols your empty house!",
+   "type": "Reel",
+   "views": 4,
+   "reach": 3,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 17,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18103607726561138.jpg"
+  },
+  {
    "date": "Wed Nov 11",
    "title": "Anthropic says its new AI solved black hole problems!",
    "type": "Reel",
-   "views": 4,
-   "reach": 2,
+   "views": 5,
+   "reach": 3,
    "likes": 0,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 29,
+   "avg_watch_s": 22,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18343027306279638.jpg"
   },
   {
@@ -141,32 +171,6 @@
    "shares": 0,
    "avg_watch_s": 12,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18109353944183116.jpg"
-  },
-  {
-   "date": "Mon Nov 2",
-   "title": "Singapore pitches a global AI incident reporting pilot",
-   "type": "Reel",
-   "views": 6,
-   "reach": 4,
-   "likes": 2,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 13,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18132821227747769.jpg"
-  },
-  {
-   "date": "Sun Nov 1",
-   "title": "This Week in AI & Robotics (Oct 25-31)",
-   "type": "Reel",
-   "views": 99,
-   "reach": 89,
-   "likes": 1,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 9,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18388925617237104.jpg"
   }
  ],
  "live": true
