@@ -1,8 +1,20 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 12, 2026 8:56 PM ET",
+ "exported_at": "Nov 13, 2026 8:52 PM ET",
  "posts": [
+  {
+   "posted": "Fri Nov 13 \u00b7 8:59 AM ET",
+   "title": "Google's robot brain just packed car parts at Mercedes!",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DfrywdbjY0z/",
+   "views": 7,
+   "reach": 3,
+   "likes": 1,
+   "stats_as_of": "2026-11-13",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18010112898007523.jpg"
+  },
   {
    "posted": "Thu Nov 12 \u00b7 9:28 AM ET",
    "title": "Ring built a drone that patrols your empty house!",
@@ -12,7 +24,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-12",
+   "stats_as_of": "2026-11-13",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18030494141921589.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 4,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-12",
+   "stats_as_of": "2026-11-13",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18103607726561138.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 5,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-12",
+   "stats_as_of": "2026-11-13",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18343027306279638.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 4,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-12",
+   "stats_as_of": "2026-11-13",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18127620217860258.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 3,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-12",
+   "stats_as_of": "2026-11-13",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17889729141621547.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 5,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-12",
+   "stats_as_of": "2026-11-13",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18096191678180901.jpg"
   },
   {
@@ -84,7 +96,7 @@
    "views": 7,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-12",
+   "stats_as_of": "2026-11-13",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18079118492429957.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 4,
    "likes": 1,
    "stats_as_of": "2026-11-12",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18109353944183116.jpg"
+   "thumb": null
   },
   {
    "posted": "Mon Nov 2 \u00b7 9:02 AM ET",
