@@ -1,14 +1,14 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 13, 2026 8:52 PM ET",
+ "taken_at": "Nov 14, 2026 8:47 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 12",
+ "prev_taken_at": "Nov 13",
  "following": 111,
- "media_count": 28,
+ "media_count": 29,
  "last_24h": {
-  "views": 7,
+  "views": 4,
   "reach": 3,
   "profile_views": 0,
   "accounts_engaged": 1
@@ -69,20 +69,37 @@
   {
    "date": "2026-11-13",
    "followers": 21
+  },
+  {
+   "date": "2026-11-14",
+   "followers": 21
   }
  ],
  "posts": [
   {
+   "date": "Sat Nov 14",
+   "title": "United just banned AI agents from booking flights!",
+   "type": "Reel",
+   "views": 4,
+   "reach": 3,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 24,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18400150642161131.jpg"
+  },
+  {
    "date": "Fri Nov 13",
    "title": "Google's robot brain just packed car parts at Mercedes!",
    "type": "Reel",
-   "views": 7,
-   "reach": 3,
+   "views": 8,
+   "reach": 4,
    "likes": 1,
    "comments": 1,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 17,
+   "avg_watch_s": 13,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18010112898007523.jpg"
   },
   {
@@ -102,13 +119,13 @@
    "date": "Thu Nov 12",
    "title": "Ring built a drone that patrols your empty house!",
    "type": "Reel",
-   "views": 4,
-   "reach": 3,
+   "views": 5,
+   "reach": 4,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 17,
+   "avg_watch_s": 14,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18103607726561138.jpg"
   },
   {
@@ -154,27 +171,14 @@
    "date": "Sun Nov 8",
    "title": "This Week in AI & Robotics (Nov 1-7)",
    "type": "Reel",
-   "views": 5,
-   "reach": 3,
+   "views": 7,
+   "reach": 4,
    "likes": 0,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 7,
+   "avg_watch_s": 6,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18096191678180901.jpg"
-  },
-  {
-   "date": "Wed Nov 4",
-   "title": "Toyota will build Waymo's robotaxis for Japan",
-   "type": "Reel",
-   "views": 7,
-   "reach": 4,
-   "likes": 1,
-   "comments": 1,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 7,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18079118492429957.jpg"
   }
  ],
  "live": true

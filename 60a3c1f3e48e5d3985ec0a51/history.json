@@ -1,18 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 13, 2026 8:52 PM ET",
+ "exported_at": "Nov 14, 2026 8:47 PM ET",
  "posts": [
+  {
+   "posted": "Sat Nov 14 \u00b7 9:01 AM ET",
+   "title": "United just banned AI agents from booking flights!",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DfuXzbjguoW/",
+   "views": 4,
+   "reach": 3,
+   "likes": 1,
+   "stats_as_of": "2026-11-14",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18400150642161131.jpg"
+  },
   {
    "posted": "Fri Nov 13 \u00b7 8:59 AM ET",
    "title": "Google's robot brain just packed car parts at Mercedes!",
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DfrywdbjY0z/",
-   "views": 7,
-   "reach": 3,
+   "views": 8,
+   "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-13",
+   "stats_as_of": "2026-11-14",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18010112898007523.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-13",
+   "stats_as_of": "2026-11-14",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18030494141921589.jpg"
   },
   {
@@ -33,10 +45,10 @@
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DfpPAIzFGpx/",
-   "views": 4,
-   "reach": 3,
+   "views": 5,
+   "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-13",
+   "stats_as_of": "2026-11-14",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18103607726561138.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 5,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-13",
+   "stats_as_of": "2026-11-14",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18343027306279638.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 4,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-13",
+   "stats_as_of": "2026-11-14",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18127620217860258.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 3,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-13",
+   "stats_as_of": "2026-11-14",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17889729141621547.jpg"
   },
   {
@@ -81,10 +93,10 @@
    "type": "Reel",
    "mira": false,
    "permalink": "https://www.instagram.com/reel/Dff43SNASOj/",
-   "views": 5,
-   "reach": 3,
+   "views": 7,
+   "reach": 4,
    "likes": 0,
-   "stats_as_of": "2026-11-13",
+   "stats_as_of": "2026-11-14",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18096191678180901.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 4,
    "likes": 1,
    "stats_as_of": "2026-11-13",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18079118492429957.jpg"
+   "thumb": null
   },
   {
    "posted": "Tue Nov 3 \u00b7 9:16 AM ET",

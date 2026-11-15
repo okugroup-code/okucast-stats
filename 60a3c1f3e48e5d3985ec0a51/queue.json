@@ -1,11 +1,11 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 13, 2026 8:52 PM ET",
+ "exported_at": "Nov 14, 2026 8:47 PM ET",
  "post_now_live": false,
  "posts": [
   {
-   "id": "2026-11-14-united-bans-ai-booking-agents",
+   "id": "2026-11-15-openai-disbands-robotics-team",
    "date": null,
    "folder": "approved",
    "status": "Ready to post",
@@ -16,10 +16,10 @@
    "type": "reel",
    "ai_label": true,
    "approved_by": "Ernest (in Nova chat)",
-   "look": "5_low_bun_black_turtleneck",
-   "duration_s": 36.9,
+   "look": "3_straight_hair_denim",
+   "duration_s": 41.7,
    "sources": [],
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-14-united-bans-ai-booking-agents.jpg",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-15-openai-disbands-robotics-team.jpg",
    "post_time": "9:00 AM ET",
    "scheduled": null,
    "scheduled_by_phone": false,
