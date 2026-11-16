@@ -1,8 +1,32 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 14, 2026 8:47 PM ET",
+ "exported_at": "Nov 15, 2026 8:50 PM ET",
  "posts": [
+  {
+   "posted": "Sun Nov 15 \u00b7 6:08 PM ET",
+   "title": "This Week in AI & Robotics (Nov 9-14)",
+   "type": "Reel",
+   "mira": false,
+   "permalink": "https://www.instagram.com/reel/Dfx7Ht_IPpS/",
+   "views": 4,
+   "reach": 3,
+   "likes": 1,
+   "stats_as_of": "2026-11-15",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17914677330580063.jpg"
+  },
+  {
+   "posted": "Sun Nov 15 \u00b7 9:08 AM ET",
+   "title": "OpenAI just broke up its own robotics team!",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/Dfw9aXxD2-b/",
+   "views": 3,
+   "reach": 3,
+   "likes": 0,
+   "stats_as_of": "2026-11-15",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17973005913188692.jpg"
+  },
   {
    "posted": "Sat Nov 14 \u00b7 9:01 AM ET",
    "title": "United just banned AI agents from booking flights!",
@@ -12,7 +36,7 @@
    "views": 4,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-14",
+   "stats_as_of": "2026-11-15",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18400150642161131.jpg"
   },
   {
@@ -24,7 +48,7 @@
    "views": 8,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-14",
+   "stats_as_of": "2026-11-15",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18010112898007523.jpg"
   },
   {
@@ -36,7 +60,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-14",
+   "stats_as_of": "2026-11-15",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18030494141921589.jpg"
   },
   {
@@ -48,7 +72,7 @@
    "views": 5,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-14",
+   "stats_as_of": "2026-11-15",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18103607726561138.jpg"
   },
   {
@@ -60,7 +84,7 @@
    "views": 5,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-14",
+   "stats_as_of": "2026-11-15",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18343027306279638.jpg"
   },
   {
@@ -72,7 +96,7 @@
    "views": 4,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-14",
+   "stats_as_of": "2026-11-15",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18127620217860258.jpg"
   },
   {
@@ -85,7 +109,7 @@
    "reach": 3,
    "likes": 1,
    "stats_as_of": "2026-11-14",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17889729141621547.jpg"
+   "thumb": null
   },
   {
    "posted": "Sun Nov 8 \u00b7 6:02 PM ET",
@@ -97,7 +121,7 @@
    "reach": 4,
    "likes": 0,
    "stats_as_of": "2026-11-14",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18096191678180901.jpg"
+   "thumb": null
   },
   {
    "posted": "Wed Nov 4 \u00b7 9:05 AM ET",
