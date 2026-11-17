@@ -1,17 +1,17 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 15, 2026 8:50 PM ET",
+ "taken_at": "Nov 16, 2026 8:53 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 14",
+ "prev_taken_at": "Nov 15",
  "following": 111,
- "media_count": 31,
+ "media_count": 32,
  "last_24h": {
-  "views": 7,
-  "reach": 4,
+  "views": 6,
+  "reach": 5,
   "profile_views": 0,
-  "accounts_engaged": 1
+  "accounts_engaged": 0
  },
  "history": [
   {
@@ -77,20 +77,37 @@
   {
    "date": "2026-11-15",
    "followers": 21
+  },
+  {
+   "date": "2026-11-16",
+   "followers": 21
   }
  ],
  "posts": [
   {
+   "date": "Mon Nov 16",
+   "title": "Google's fast new AI just outscored its top model!",
+   "type": "Post",
+   "views": 6,
+   "reach": 3,
+   "likes": 0,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": null,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17913634782308986.jpg"
+  },
+  {
    "date": "Sun Nov 15",
    "title": "This Week in AI & Robotics (Nov 9-14)",
    "type": "Reel",
-   "views": 4,
-   "reach": 3,
+   "views": 5,
+   "reach": 5,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 30,
+   "avg_watch_s": 25,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17914677330580063.jpg"
   },
   {
@@ -170,19 +187,6 @@
    "shares": 0,
    "avg_watch_s": 22,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18343027306279638.jpg"
-  },
-  {
-   "date": "Tue Nov 10",
-   "title": "Six robots ran a store for twenty-four hours!",
-   "type": "Reel",
-   "views": 4,
-   "reach": 3,
-   "likes": 1,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 18,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18127620217860258.jpg"
   }
  ],
  "live": true
