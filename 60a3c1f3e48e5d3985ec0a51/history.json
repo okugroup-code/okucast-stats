@@ -1,8 +1,20 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 18, 2026 8:52 PM ET",
+ "exported_at": "Nov 19, 2026 8:47 PM ET",
  "posts": [
+  {
+   "posted": "Thu Nov 19 \u00b7 9:02 AM ET",
+   "title": "Senators urge White House action on AI cyber threats",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/Df7P0UvCmIc/",
+   "views": 3,
+   "reach": 2,
+   "likes": 0,
+   "stats_as_of": "2026-11-19",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17893498764460661.jpg"
+  },
   {
    "posted": "Wed Nov 18 \u00b7 8:58 AM ET",
    "title": "Half a billion dollars for robots trained by gloves!",
@@ -12,7 +24,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-18",
+   "stats_as_of": "2026-11-19",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18003671511035011.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 5,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-18",
+   "stats_as_of": "2026-11-19",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18126687607930490.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 7,
    "reach": 4,
    "likes": 0,
-   "stats_as_of": "2026-11-18",
+   "stats_as_of": "2026-11-19",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17913634782308986.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 5,
    "reach": 5,
    "likes": 1,
-   "stats_as_of": "2026-11-18",
+   "stats_as_of": "2026-11-19",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17914677330580063.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-18",
+   "stats_as_of": "2026-11-19",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17973005913188692.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 4,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-18",
+   "stats_as_of": "2026-11-19",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18400150642161131.jpg"
   },
   {
@@ -84,7 +96,7 @@
    "views": 8,
    "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-18",
+   "stats_as_of": "2026-11-19",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18010112898007523.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 3,
    "likes": 0,
    "stats_as_of": "2026-11-18",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18030494141921589.jpg"
+   "thumb": null
   },
   {
    "posted": "Thu Nov 12 \u00b7 9:08 AM ET",
