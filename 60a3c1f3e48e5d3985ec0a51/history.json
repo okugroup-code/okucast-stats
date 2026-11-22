@@ -1,8 +1,20 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 20, 2026 8:54 PM ET",
+ "exported_at": "Nov 21, 2026 8:47 PM ET",
  "posts": [
+  {
+   "posted": "Sat Nov 21 \u00b7 10:10 AM ET",
+   "title": "John Deere buys AI farming startup Orchard Robotics",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DgAhNYDiLcz/",
+   "views": 2,
+   "reach": 2,
+   "likes": 0,
+   "stats_as_of": "2026-11-21",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18116848526150683.jpg"
+  },
   {
    "posted": "Fri Nov 20 \u00b7 9:01 AM ET",
    "title": "Anthropic sets the record for the biggest IPO",
@@ -12,7 +24,7 @@
    "views": 5,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-20",
+   "stats_as_of": "2026-11-21",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18112655792267501.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 5,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-20",
+   "stats_as_of": "2026-11-21",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17893498764460661.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-20",
+   "stats_as_of": "2026-11-21",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18003671511035011.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 5,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-20",
+   "stats_as_of": "2026-11-21",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18126687607930490.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 7,
    "reach": 4,
    "likes": 0,
-   "stats_as_of": "2026-11-20",
+   "stats_as_of": "2026-11-21",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17913634782308986.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 5,
    "reach": 5,
    "likes": 1,
-   "stats_as_of": "2026-11-20",
+   "stats_as_of": "2026-11-21",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17914677330580063.jpg"
   },
   {
@@ -84,7 +96,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-20",
+   "stats_as_of": "2026-11-21",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17973005913188692.jpg"
   },
   {
@@ -97,7 +109,7 @@
    "reach": 3,
    "likes": 1,
    "stats_as_of": "2026-11-20",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18400150642161131.jpg"
+   "thumb": null
   },
   {
    "posted": "Fri Nov 13 \u00b7 8:59 AM ET",

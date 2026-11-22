@@ -1,8 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 20, 2026 8:54 PM ET",
+ "exported_at": "Nov 21, 2026 8:47 PM ET",
  "post_now_live": false,
- "posts": [],
+ "posts": [
+  {
+   "id": "2026-11-22-un-talks-delay-killer-robot-rules",
+   "date": null,
+   "folder": "approved",
+   "status": "Ready to post",
+   "headline": "UN talks delay rules on AI killer robots",
+   "hook": "Hidden until posted",
+   "caption": "Caption hidden until posted",
+   "hashtags": [],
+   "type": "reel",
+   "ai_label": true,
+   "approved_by": "Ernest (in Nova chat)",
+   "look": "2_ponytail_teal_sweater",
+   "duration_s": 44.1,
+   "sources": [],
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/2026-11-22-un-talks-delay-killer-robot-rules.jpg",
+   "post_time": "9:00 AM ET",
+   "scheduled": null,
+   "scheduled_by_phone": false,
+   "missed": false
+  }
+ ],
  "live": true
 }
