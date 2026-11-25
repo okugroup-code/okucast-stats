@@ -1,17 +1,17 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 23, 2026 8:51 PM ET",
+ "taken_at": "Nov 24, 2026 8:50 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 22",
+ "prev_taken_at": "Nov 23",
  "following": 112,
- "media_count": 41,
+ "media_count": 42,
  "last_24h": {
-  "views": 13,
-  "reach": 5,
+  "views": 14,
+  "reach": 4,
   "profile_views": 0,
-  "accounts_engaged": 1
+  "accounts_engaged": 0
  },
  "history": [
   {
@@ -109,20 +109,37 @@
   {
    "date": "2026-11-23",
    "followers": 21
+  },
+  {
+   "date": "2026-11-24",
+   "followers": 21
   }
  ],
  "posts": [
   {
+   "date": "Tue Nov 24",
+   "title": "Ant Group bets big on a wheeled humanoid robot",
+   "type": "Reel",
+   "views": 7,
+   "reach": 3,
+   "likes": 0,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 10,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18128664880919933.jpg"
+  },
+  {
    "date": "Mon Nov 23",
    "title": "India's Sarvam drops a cheaper open AI model",
    "type": "Reel",
-   "views": 3,
-   "reach": 3,
+   "views": 5,
+   "reach": 5,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 9,
+   "avg_watch_s": 6,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18141218176632421.jpg"
   },
   {
@@ -142,26 +159,26 @@
    "date": "Sun Nov 22",
    "title": "This Week in AI & Robotics (Nov 16-21)",
    "type": "Reel",
-   "views": 8,
-   "reach": 4,
+   "views": 9,
+   "reach": 5,
    "likes": 0,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 4,
+   "avg_watch_s": 3,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18120606446034055.jpg"
   },
   {
    "date": "Sun Nov 22",
    "title": "UN talks delay rules on AI killer robots",
    "type": "Reel",
-   "views": 2,
-   "reach": 2,
+   "views": 3,
+   "reach": 3,
    "likes": 0,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 16,
+   "avg_watch_s": 13,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18173181514479269.jpg"
   },
   {
@@ -181,13 +198,13 @@
    "date": "Fri Nov 20",
    "title": "Anthropic sets the record for the biggest IPO",
    "type": "Reel",
-   "views": 5,
-   "reach": 3,
+   "views": 6,
+   "reach": 4,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 19,
+   "avg_watch_s": 14,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18112655792267501.jpg"
   },
   {
@@ -202,19 +219,6 @@
    "shares": 0,
    "avg_watch_s": 5,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17893498764460661.jpg"
-  },
-  {
-   "date": "Wed Nov 18",
-   "title": "Half a billion dollars for robots trained by gloves!",
-   "type": "Reel",
-   "views": 3,
-   "reach": 3,
-   "likes": 0,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 1,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18003671511035011.jpg"
   }
  ],
  "live": true

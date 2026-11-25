@@ -1,18 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 23, 2026 8:51 PM ET",
+ "exported_at": "Nov 24, 2026 8:51 PM ET",
  "posts": [
+  {
+   "posted": "Tue Nov 24 \u00b7 9:09 AM ET",
+   "title": "Ant Group bets big on a wheeled humanoid robot",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DgIIkLTEs8X/",
+   "views": 7,
+   "reach": 3,
+   "likes": 0,
+   "stats_as_of": "2026-11-24",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18128664880919933.jpg"
+  },
   {
    "posted": "Mon Nov 23 \u00b7 9:05 AM ET",
    "title": "India's Sarvam drops a cheaper open AI model",
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DgFjWofDT9M/",
-   "views": 3,
-   "reach": 3,
+   "views": 5,
+   "reach": 5,
    "likes": 1,
-   "stats_as_of": "2026-11-23",
+   "stats_as_of": "2026-11-24",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18141218176632421.jpg"
   },
   {
@@ -21,10 +33,10 @@
    "type": "Reel",
    "mira": false,
    "permalink": "https://www.instagram.com/reel/DgD853kD2re/",
-   "views": 8,
-   "reach": 4,
+   "views": 9,
+   "reach": 5,
    "likes": 0,
-   "stats_as_of": "2026-11-23",
+   "stats_as_of": "2026-11-24",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18120606446034055.jpg"
   },
   {
@@ -33,10 +45,10 @@
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DgC_HVdmJKM/",
-   "views": 2,
-   "reach": 2,
+   "views": 3,
+   "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-23",
+   "stats_as_of": "2026-11-24",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18173181514479269.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-23",
+   "stats_as_of": "2026-11-24",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18116848526150683.jpg"
   },
   {
@@ -57,10 +69,10 @@
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/Df90ie7jQv6/",
-   "views": 5,
-   "reach": 3,
+   "views": 6,
+   "reach": 4,
    "likes": 1,
-   "stats_as_of": "2026-11-23",
+   "stats_as_of": "2026-11-24",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18112655792267501.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 5,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-23",
+   "stats_as_of": "2026-11-24",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17893498764460661.jpg"
   },
   {
@@ -85,7 +97,7 @@
    "reach": 3,
    "likes": 0,
    "stats_as_of": "2026-11-23",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18003671511035011.jpg"
+   "thumb": null
   },
   {
    "posted": "Tue Nov 17 \u00b7 9:08 AM ET",
