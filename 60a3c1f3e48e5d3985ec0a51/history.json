@@ -1,18 +1,30 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 25, 2026 8:52 PM ET",
+ "exported_at": "Nov 26, 2026 8:53 PM ET",
  "posts": [
+  {
+   "posted": "Thu Nov 26 \u00b7 9:06 AM ET",
+   "title": "Lute raises twenty million dollars for robot touch",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DgNR8q_hFmW/",
+   "views": 3,
+   "reach": 3,
+   "likes": 1,
+   "stats_as_of": "2026-11-26",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17872506822660469.jpg"
+  },
   {
    "posted": "Wed Nov 25 \u00b7 8:59 AM ET",
    "title": "One AI model for cars, drones and humanoid robots",
    "type": "Reel",
    "mira": true,
    "permalink": "https://www.instagram.com/reel/DgKsVh3Jz0_/",
-   "views": 2,
-   "reach": 2,
+   "views": 3,
+   "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-25",
+   "stats_as_of": "2026-11-26",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18153300358561259.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 7,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-25",
+   "stats_as_of": "2026-11-26",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18128664880919933.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 5,
    "reach": 5,
    "likes": 1,
-   "stats_as_of": "2026-11-25",
+   "stats_as_of": "2026-11-26",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18141218176632421.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 9,
    "reach": 5,
    "likes": 0,
-   "stats_as_of": "2026-11-25",
+   "stats_as_of": "2026-11-26",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18120606446034055.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-25",
+   "stats_as_of": "2026-11-26",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18173181514479269.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-25",
+   "stats_as_of": "2026-11-26",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18116848526150683.jpg"
   },
   {
@@ -85,7 +97,7 @@
    "reach": 4,
    "likes": 1,
    "stats_as_of": "2026-11-25",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18112655792267501.jpg"
+   "thumb": null
   },
   {
    "posted": "Thu Nov 19 \u00b7 9:02 AM ET",

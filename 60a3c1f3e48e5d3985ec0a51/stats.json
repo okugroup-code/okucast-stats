@@ -1,12 +1,12 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 25, 2026 8:52 PM ET",
+ "taken_at": "Nov 26, 2026 8:53 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 24",
+ "prev_taken_at": "Nov 25",
  "following": 112,
- "media_count": 43,
+ "media_count": 44,
  "last_24h": {
   "views": 3,
   "reach": 3,
@@ -117,20 +117,37 @@
   {
    "date": "2026-11-25",
    "followers": 21
+  },
+  {
+   "date": "2026-11-26",
+   "followers": 21
   }
  ],
  "posts": [
   {
-   "date": "Wed Nov 25",
-   "title": "One AI model for cars, drones and humanoid robots",
+   "date": "Thu Nov 26",
+   "title": "Lute raises twenty million dollars for robot touch",
    "type": "Reel",
-   "views": 2,
-   "reach": 2,
+   "views": 3,
+   "reach": 3,
    "likes": 1,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 7,
+   "avg_watch_s": 12,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17872506822660469.jpg"
+  },
+  {
+   "date": "Wed Nov 25",
+   "title": "One AI model for cars, drones and humanoid robots",
+   "type": "Reel",
+   "views": 3,
+   "reach": 3,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 5,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18153300358561259.jpg"
   },
   {
@@ -210,19 +227,6 @@
    "shares": 0,
    "avg_watch_s": 10,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18116848526150683.jpg"
-  },
-  {
-   "date": "Fri Nov 20",
-   "title": "Anthropic sets the record for the biggest IPO",
-   "type": "Reel",
-   "views": 6,
-   "reach": 4,
-   "likes": 1,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 14,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18112655792267501.jpg"
   }
  ],
  "live": true
