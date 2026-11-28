@@ -1,8 +1,20 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "exported_at": "Nov 26, 2026 8:53 PM ET",
+ "exported_at": "Nov 27, 2026 8:48 PM ET",
  "posts": [
+  {
+   "posted": "Fri Nov 27 \u00b7 9:04 AM ET",
+   "title": "Volvo starts training humanoid robots in its car factory",
+   "type": "Reel",
+   "mira": true,
+   "permalink": "https://www.instagram.com/reel/DgP2eFdMzQC/",
+   "views": 4,
+   "reach": 3,
+   "likes": 1,
+   "stats_as_of": "2026-11-27",
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17919877431495553.jpg"
+  },
   {
    "posted": "Thu Nov 26 \u00b7 9:06 AM ET",
    "title": "Lute raises twenty million dollars for robot touch",
@@ -12,7 +24,7 @@
    "views": 3,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-26",
+   "stats_as_of": "2026-11-27",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17872506822660469.jpg"
   },
   {
@@ -24,7 +36,7 @@
    "views": 3,
    "reach": 3,
    "likes": 1,
-   "stats_as_of": "2026-11-26",
+   "stats_as_of": "2026-11-27",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18153300358561259.jpg"
   },
   {
@@ -36,7 +48,7 @@
    "views": 7,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-26",
+   "stats_as_of": "2026-11-27",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18128664880919933.jpg"
   },
   {
@@ -48,7 +60,7 @@
    "views": 5,
    "reach": 5,
    "likes": 1,
-   "stats_as_of": "2026-11-26",
+   "stats_as_of": "2026-11-27",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18141218176632421.jpg"
   },
   {
@@ -60,7 +72,7 @@
    "views": 9,
    "reach": 5,
    "likes": 0,
-   "stats_as_of": "2026-11-26",
+   "stats_as_of": "2026-11-27",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18120606446034055.jpg"
   },
   {
@@ -72,7 +84,7 @@
    "views": 3,
    "reach": 3,
    "likes": 0,
-   "stats_as_of": "2026-11-26",
+   "stats_as_of": "2026-11-27",
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18173181514479269.jpg"
   },
   {
@@ -85,7 +97,7 @@
    "reach": 3,
    "likes": 0,
    "stats_as_of": "2026-11-26",
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18116848526150683.jpg"
+   "thumb": null
   },
   {
    "posted": "Fri Nov 20 \u00b7 9:01 AM ET",

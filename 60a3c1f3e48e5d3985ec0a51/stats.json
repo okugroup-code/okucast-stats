@@ -1,14 +1,14 @@
 {
  "account": "@okugroup",
  "read_only": true,
- "taken_at": "Nov 26, 2026 8:53 PM ET",
+ "taken_at": "Nov 27, 2026 8:47 PM ET",
  "followers": 21,
  "followers_change": 0,
- "prev_taken_at": "Nov 25",
+ "prev_taken_at": "Nov 26",
  "following": 112,
- "media_count": 44,
+ "media_count": 45,
  "last_24h": {
-  "views": 3,
+  "views": 4,
   "reach": 3,
   "profile_views": 0,
   "accounts_engaged": 1
@@ -121,9 +121,26 @@
   {
    "date": "2026-11-26",
    "followers": 21
+  },
+  {
+   "date": "2026-11-27",
+   "followers": 21
   }
  ],
  "posts": [
+  {
+   "date": "Fri Nov 27",
+   "title": "Volvo starts training humanoid robots in its car factory",
+   "type": "Reel",
+   "views": 4,
+   "reach": 3,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avg_watch_s": 16,
+   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17919877431495553.jpg"
+  },
   {
    "date": "Thu Nov 26",
    "title": "Lute raises twenty million dollars for robot touch",
@@ -134,7 +151,7 @@
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avg_watch_s": 12,
+   "avg_watch_s": 22,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/17872506822660469.jpg"
   },
   {
@@ -214,19 +231,6 @@
    "shares": 0,
    "avg_watch_s": 13,
    "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18173181514479269.jpg"
-  },
-  {
-   "date": "Sat Nov 21",
-   "title": "John Deere buys AI farming startup Orchard Robotics",
-   "type": "Reel",
-   "views": 3,
-   "reach": 3,
-   "likes": 0,
-   "comments": 0,
-   "saves": 0,
-   "shares": 0,
-   "avg_watch_s": 10,
-   "thumb": "https://okugroup-code.github.io/okucast-stats/60a3c1f3e48e5d3985ec0a51/thumbs/18116848526150683.jpg"
   }
  ],
  "live": true
